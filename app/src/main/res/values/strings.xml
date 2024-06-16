@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MKO_Systems</string>
+    <string name="start">Start</string>
+    <string name="something_wrong">Что-то пошло не так, попробуйте еще раз.</string>
+    <string name="com_instagram_android">com.instagram.android</string>
+    <string name="instagram_is_not_installed">Instagram is not installed</string>
+    <string name="instagram_profile_uri">instagram://profile</string>
+
+    <string name="following_eng">following</string>
+    <string name="following_ru">подписки</string>
+    <string name="android_widget_textview">android.widget.TextView</string>
+</resources>
